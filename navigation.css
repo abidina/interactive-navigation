@@ -1,0 +1,15 @@
+ul li {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: inline-block;
+}
+
+li a:hover {
+  color: cadetblue;
+  background-color: darkgray;
+}
+
+li a:active {
+  padding: 0 5px 0 5px;
+}
